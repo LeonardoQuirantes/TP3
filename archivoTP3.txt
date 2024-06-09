@@ -1,0 +1,1 @@
+Esto es un archivo .tex subido desde git ,el cual se puede editar .
